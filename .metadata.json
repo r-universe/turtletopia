@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "package": "deepdep",
+    "oncran": true
+  },
+  {
+    "package": "versionsort",
+    "oncran": false
+  },
+  {
+    "package": "woodendesc"
+  }
+]
