@@ -10,11 +10,11 @@
 	registered = true
 [submodule "versionsort"]
 	path = versionsort
-	url = https://github.com/ErdaradunGaztea/versionsort
+	url = https://github.com/turtletopia/versionsort
 	shallow = true
 	registered = true
 [submodule "woodendesc"]
 	path = woodendesc
-	url = https://github.com/ErdaradunGaztea/woodendesc
+	url = https://github.com/turtletopia/woodendesc
 	shallow = true
 	registered = true
