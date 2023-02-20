@@ -1,7 +1,20 @@
 [
   {
+    "package": "aurrera"
+  },
+  {
     "package": "deepdep",
     "oncran": true
+  },
+  {
+    "package": "gglgbtq",
+    "oncran": true
+  },
+  {
+    "package": "ggpizza"
+  },
+  {
+    "package": "openaccess"
   },
   {
     "package": "versionsort",

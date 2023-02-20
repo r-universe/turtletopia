@@ -3,9 +3,29 @@
 	url = https://github.com/turtletopia/universe
 	shallow = true
 	branch = HEAD
+[submodule "aurrera"]
+	path = aurrera
+	url = https://github.com/turtletopia/aurrera
+	shallow = true
+	registered = true
 [submodule "deepdep"]
 	path = deepdep
 	url = https://github.com/DominikRafacz/deepdep
+	shallow = true
+	registered = true
+[submodule "gglgbtq"]
+	path = gglgbtq
+	url = https://github.com/turtletopia/gglgbtq
+	shallow = true
+	registered = true
+[submodule "ggpizza"]
+	path = ggpizza
+	url = https://github.com/turtletopia/ggpizza
+	shallow = true
+	registered = true
+[submodule "openaccess"]
+	path = openaccess
+	url = https://github.com/turtletopia/openaccess
 	shallow = true
 	registered = true
 [submodule "versionsort"]
