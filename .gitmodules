@@ -1,25 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/turtletopia/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "aurrera"]
-	path = aurrera
-	url = https://github.com/turtletopia/aurrera
-[submodule "deepdep"]
-	path = deepdep
-	url = https://github.com/DominikRafacz/deepdep
 [submodule "gglgbtq"]
 	path = gglgbtq
 	url = https://github.com/turtletopia/gglgbtq
-[submodule "ggpizza"]
-	path = ggpizza
-	url = https://github.com/turtletopia/ggpizza
-[submodule "openaccess"]
-	path = openaccess
-	url = https://github.com/turtletopia/openaccess
 [submodule "versionsort"]
 	path = versionsort
 	url = https://github.com/turtletopia/versionsort
-[submodule "woodendesc"]
-	path = woodendesc
-	url = https://github.com/turtletopia/woodendesc
